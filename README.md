@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nimasha-vishmi
-- 👀 I’m passionate about exploring the vast world of Data Science
+
 - 🌱 I’m currently expanding my knowledge in Information Technology
 - 📫 How to reach me [nimavish25@gmail.com]
 - 😊 Pronouns: Her/She
